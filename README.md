@@ -1,5 +1,5 @@
 # Initiate-of-java
-包含helloJava.java及其class文件
+包含helloJava.java及其class文件/n
 代码内容为
 Hello，
 Java World！
