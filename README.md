@@ -1,4 +1,4 @@
-# Initiate-of-java
+# Initiation into java
 
 包含helloJava.java及其class文件
 
