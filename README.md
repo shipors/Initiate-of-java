@@ -1,6 +1,8 @@
 # My initiation into java
 
-helloJava.java   //分行输出
+helloJava.java   //输出helloworld
+
+                   *分行输出
 
 add.java         //用户使用命令行输入数字，求和后输出
 
