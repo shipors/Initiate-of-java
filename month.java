@@ -1,13 +1,13 @@
-import java.util.Scanner;
+import java.util.Scanner;                        //使用Scanner时idea自动生成
 
 public class month
 {
     public static void main(String[] args)
     {
-        do {
-            Scanner input=new Scanner(System.in);
+        do {                                     //使用do while语句实现反复查询而不是一次查询就退出
+            Scanner input=new Scanner(System.in);//Scanner类用于获取控制台输入，新建一Scanner类对象input，将用户在控制台输入的内容赋给input；
             int month;
-            month=input.nextInt();
+            month=input.nextInt();               //将input对象中下一个整型赋给month
             switch (month)
             {
                 case 1 :System.out.println("January");  break;
