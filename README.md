@@ -4,7 +4,13 @@ helloJava.java   //分行输出
 
 add.java         //用户使用命令行输入数字，求和后输出
 
+                   *强制处理数据为整型将数组中的数据依次转移到string语句中。
+                   
 month.java       //用户输入数字，程序查询并输出对应的英文月份，可重复查询。
+
+                   *scanner（用户从控制台输入数据）类的使用及数据输出，switch语句的使用，do while语句的使用。
+
+
 
 -----------------------------------
 Tips
@@ -21,4 +27,6 @@ Tips
 
 7.Scanner input=new Scanner(System.in);//Scanner类用于获取控制台输入，新建一Scanner类对象input，将用户在控制台输入的内容赋给input；
 
-8.month=input.nextInt();//
+8.month=input.nextInt();//将input数据给month。
+
+tips不再更新，语句解释将直接缀于代码后方。
