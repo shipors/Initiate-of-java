@@ -4,6 +4,8 @@ helloJava.java   //分行输出
 
 add.java         //用户使用命令行输入数字，求和后输出
 
+month.java       //用户输入数字，程序查询并输出对应的英文月份，可重复查询。
+
 -----------------------------------
 Tips
 
@@ -15,4 +17,8 @@ Tips
 
 5.String[] args//用户使用命令行输入内容至args数组中；
 
-6.Integer.parseInt(arg)//将arg中的数字处理为整型。
+6.Integer.parseInt(arg)//将arg中的数字处理为整型；
+
+7.Scanner input=new Scanner(System.in);//Scanner类用于获取控制台输入，新建一Scanner类对象input，将用户在控制台输入的内容赋给input；
+
+8.month=input.nextInt();//
